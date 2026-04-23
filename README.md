@@ -48,10 +48,10 @@ The goal is to analyze retail performance across regions, products, and time, wh
 
 ## Key Insights
 - Regional performance differences highlight uneven revenue distribution
-- Certain product categories drive high sales but lower profit margins
-- Seasonal trends visible through YoY and running total analysis
-
----
+- High sales do not always translate into high profit : Some categories (often Furniture) have high sales but low or negative profit
+- Profit is unevenly distributed across regions :West → strong profit ; South → weaker margins ;Some regions may even lose money in specific categories
+- Year to Year sales growth shows clear seasonality, with a peak around 2015 when the business first opened, but subsequent years were unable to surpass that initial high point.
+ 
 
 ## Dashboard Preview
 
@@ -59,15 +59,15 @@ The goal is to analyze retail performance across regions, products, and time, wh
 ![Dashboard Overview](SuperStoreBI.overview.png)
 
 
-### Sales by Region
+### 🟦 Sales by Region
 ![Region Analysis](SuperStore.region.analysis.png)
 
-###  Top Products
-![Top Products](Superstore.Top.10Products.png)
-)
+### 🟦 Top Products
+![Top Products](Superstore.Top.10.Products.png)
 
-### 📈 Time Series Analysis
-![Trend Analysis](images/SuperStore.TrendAnalysis.overtime.png)
+
+### 🟦 Time Series Analysis
+![Trend Analysis](SuperStore.TrendAnalysis.overtime.png)
 
 ---
 
@@ -83,10 +83,12 @@ The goal is to analyze retail performance across regions, products, and time, wh
 ---
 
 ## How to Use
-1. Download the `.pbix` file
-2. Open in Power BI Desktop
-3. Refresh data if needed
-4. Explore dashboard using filters and slicers
+1. Download the `PP1 - Superstore POWER BI.pbix` file
+2. Optional (Open the `PP1 - Superstore.xlsx` file
+3. Open in Power BI Desktop
+4. Refresh data if needed
+5. Explore dashboard using filters and slicers
+   
 
 ---
 
