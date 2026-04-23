@@ -56,15 +56,14 @@ The goal is to analyze retail performance across regions, products, and time, wh
 ## Dashboard Preview
 
 ### 🟦 Overview Dashboard
-![Dashboard Overview](Retail-_SuperStore_PBI_Dashboard
-/Superstore.Top.10.Products
-)
+![Dashboard Overview](SuperStoreBI.overview.png)
 
-### 📊 Sales by Region
-![Region Analysis](img/SuperStore.region.analysis.png)
 
-### 🏆 Top Products
-![Top Products](images/Superstore.Top.10.Products
+### Sales by Region
+![Region Analysis](SuperStore.region.analysis.png)
+
+###  Top Products
+![Top Products](Superstore.Top.10Products.png)
 )
 
 ### 📈 Time Series Analysis
