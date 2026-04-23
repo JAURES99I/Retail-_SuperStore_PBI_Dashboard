@@ -61,7 +61,7 @@ The goal is to analyze retail performance across regions, products, and time, wh
 )
 
 ### 📊 Sales by Region
-![Region Analysis](images/SuperStore.region.analysis.png)
+![Region Analysis](img/SuperStore.region.analysis.png)
 
 ### 🏆 Top Products
 ![Top Products](images/Superstore.Top.10.Products
